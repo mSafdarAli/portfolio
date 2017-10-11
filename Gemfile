@@ -11,6 +11,8 @@ gem 'rails', '~> 5.0.6'
 gem 'devise', '~> 4.3'
 gem 'activeadmin', github: 'activeadmin'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
+gem 'active_skin'
+gem 'paperclip', '~> 5.1'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
